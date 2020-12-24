@@ -4,4 +4,4 @@
 
 
 * This is critical update
-- I love VIM 
+- I love VIM
