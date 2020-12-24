@@ -4,7 +4,7 @@
 
 
 * This is critical update
-- I love VIM (( hello from the b branch ))
+- welcome dude
     - welcome everyone
 
 - this is great
