@@ -9,4 +9,9 @@ const gruvebox = function() {
 }
 
 
+
 console.log('Try pushing with vim-dispatch support');
+console.log('Try pushing with vim-dispatch support');
+console.log('Try pushing with vim-dispatch support');
+console.log('Try pushing with vim-dispatch support');
+
