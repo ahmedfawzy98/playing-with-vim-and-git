@@ -3,9 +3,7 @@
 #### THis is a new line and will be the second commit
 
 
-* This is critical update
-- welcome from the other side
-    - welcome everyone
+why is that
 
 - this is great
 
