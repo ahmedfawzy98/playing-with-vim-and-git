@@ -4,7 +4,7 @@
 
 
 * This is critical update
-- welcome dude
+- welcome from the other side
     - welcome everyone
 
 - this is great
