@@ -9,6 +9,9 @@ const gruvebox = function() {
 }
 
 
+const start = () => {
+  console.log('this is good');
+}
 
 console.log('Try pushing with vim-dispatch support');
 console.log('change the contents of these two messages');
