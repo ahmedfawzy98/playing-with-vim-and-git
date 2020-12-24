@@ -9,8 +9,8 @@ const gruvebox = function() {
 }
 
 
-const start = () => {
-  console.log('this is good');
+const why = () => {
+  console.log('this arrow function is from branch b');
 }
 
 console.log('Try pushing with vim-dispatch support');
